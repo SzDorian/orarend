@@ -4,12 +4,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
 
 p{
-  font-family: 'Mochiy Pop P One', sans-serif; 
+  font-family: 'Mochiy Pop P One', sans-serif;
   font-size: 20px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:yellow;
+  color: black;
+  text-align: center;
 }
 
 h1{
-  font-family: 'Dancing Script', cursive; 
+  font-family: 'Dancing Script', cursive;
   font-size: 45px;
 }
 
